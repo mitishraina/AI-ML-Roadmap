@@ -128,10 +128,76 @@ To get started with python:  [100 Days of Python - CodeWithHarry](https://youtub
 2. [TensorFlow Developer Certificate](https://www.tensorflow.org/certificate)
 3. [Azure AI Fundamentals](https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/)
 
+
+### Free Certifications 
+1. Google Cloud AI (Free with ₹1000 exam fee)
+2. Microsoft AI Fundamentals (Free learning, exam cost: ₹4000)
+3. IBM AI Engineering (Free on Coursera)
+4. Intel AI Academy Certification (Free)
+
+
+## 🚀 Indian AI Startup Ecosystem
+
+### Major AI Hubs in India
+| City | Notable Startups | Focus Areas |
+|------|-----------------|-------------|
+| Bangalore | Artivatic, Mad Street Den | FinTech, Retail AI |
+| Mumbai | Tata Neu, Haptik | Conversational AI |
+| Delhi NCR | Staqu, Parallel Dots | Computer Vision |
+| Hyderabad | TechEagle, Darwinbox | HR Tech, Drones |
+| Pune | Mindtree AI, Zensar | Enterprise AI |
+
+### AI Startup Incubators
+1. T-Hub (Hyderabad)
+2. NASSCOM CoE (Multiple Cities)
+3. IIT Madras Research Park
+4. Venture Studio (Bangalore)
+
+### Funding Resources
+1. [100X.VC](https://www.100x.vc/)
+2. Sequoia Surge
+3. Axilor Ventures
+4. Indian Angel Network
+
+   
 ### Advanced Level
 1. [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 2. [MLOps Engineering Certificate](https://www.coursera.org/professional-certificates/mlops-machine-learning-engineering)
 3. [Google Cloud Professional ML Engineer](https://cloud.google.com/certification/machine-learning-engineer)
+
+ ### 🎯 Advanced AI & Interview Prep
+| Channel | Focus | Language |
+|---------|-------|----------|
+| [AIEngineering](https://www.youtube.com/c/AIEngineeringLife) | ML/DL Projects | English |
+| [Dhaval Patel](https://www.youtube.com/c/DhavalPatel) | ML/Interview Prep | English/Hindi |
+| [iNeuron Intelligence](https://www.youtube.com/c/iNeuroniNtelligence) | AI/ML Courses | English/Hindi |
+
+## 📝 Interview Preparation 
+
+### Service-Based Companies (TCS, Infosys, Wipro)
+| Round | Focus | Preparation Resources |
+|-------|-------|----------------------|
+| Aptitude | Quantitative, Logical | 🎯 [IndiaBix](https://www.indiabix.com/)<br>📘 [PrepInsta](https://prepinsta.com/) |
+| Technical | DS, Algo, ML Basics | 🎯 [InterviewBit India](https://www.interviewbit.com/)<br>📘 [GeeksforGeeks](https://www.geeksforgeeks.org/) |
+| ML/AI | Basic ML Concepts | 🎯 [Analytics Vidhya Interview Series](https://www.analyticsvidhya.com/blog/category/interview-questions/)<br>📘 [ML Interview Guide](https://github.com/youssefHosni/Data-Science-Interview-Questions) |
+| HR | Communication, Culture | 🎯 [Glassdoor India Reviews](https://www.glassdoor.co.in/) |
+
+### Product Companies (Amazon, Microsoft, Google India)
+| Round | Focus | Preparation Resources |
+|-------|-------|----------------------|
+| Online Assessment | DSA, ML Problems | 🎯 [LeetCode India](https://leetcode.com/discuss/interview-question?currentPage=1&orderBy=hot&query=india) |
+| Technical (1-2) | ML Theory, System Design | 🎯 [Striver's SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) |
+| ML/AI Design | End-to-End ML System | 🎯 [Grokking ML Interview](https://www.educative.io/courses/grokking-the-machine-learning-interview) |
+| Behavioral | Leadership Principles | 🎯 [InterviewBit HR Questions](https://www.interviewbit.com/hr-interview-questions/) |
+
+### Indian Startups
+| Round | Focus | Preparation Resources |
+|-------|-------|----------------------|
+| Take-home Assignment | Practical Implementation | 🎯 [Kaggle India](https://www.kaggle.com/india) |
+| Technical Discussion | Problem Solving | 🎯 [MLOps Community India](https://mlops.community/) |
+| Culture Fit | Startup Mindset | 🎯 [YourStory Startup Jobs](https://yourstory.com/jobs) |
+
+
 
 ## 🎯 Project Portfolio Building
 
