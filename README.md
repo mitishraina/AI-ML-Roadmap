@@ -6,6 +6,9 @@
 - Analytical thinking
 - Problem-solving skills
 
+To get started with python:  [100 Days of Python - CodeWithHarry](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg&si=D5JGatPpesnbxBKa)<br>
+
+
 ## 🎓 Learning Tracks
 
 ### Track 1️⃣: Foundation (8 weeks)
